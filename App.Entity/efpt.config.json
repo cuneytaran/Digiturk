@@ -1,0 +1,35 @@
+﻿{
+   "ContextClassName": "DataContext",
+   "ContextNamespace": "",
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "C:\\Users\\CARAN\\Desktop\\Digiturk\\API\\App.Data\\Concrete",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "App.Entity",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Articles]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Comments]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Users]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}
