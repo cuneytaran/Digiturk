@@ -42,9 +42,8 @@ namespace App.WebUI.Controllers
         public void Delete(int id)
         {
         }
-        //deneme
-        //deneme 2
-        //deneme3
+       
         //deneme4
+        //deneme5
     }
 }
